@@ -12,6 +12,5 @@ spec:
                   backend: 
                     service:
                       name: frontend-service
-                      port: 
+                      port:
                         number: 8501
-
